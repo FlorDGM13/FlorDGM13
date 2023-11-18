@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" widh="200"/>
   <h1 align="center">🌺 Hi, I'm Flor 🌺 </h1>
-  <h3>I'm passionate web fullstack developer from Mexico, I like to improve and develop new skills every day</h3>
+  <h3>I'm passionate Data Analyst JR.from Mexico, I like to improve and develop new skills every day</h3>
 
   <p align="center">
 <a href="https://twitter.com/OniriaKeisuke" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/oniriakeisukeinst" height="30" width="40"/> </a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <ul>🌸 IPN- ESIME CULHUACAN </ul>
     <ul>🌼 ING en Computación </ul>
     <ul>🌻  How to reach me flordgm13@gmail.com</ul>
-    <ul>🍒 Aún decidiendo entre data analyst y fullstack...</ul>
+    <ul>🍒 Data Analyst JR.</ul>
     <ul>🐈 Cat lover </ul>
     <ul>🐇 Dance in my free time</ul>
     <ul>🎵 Music producer </ul>
