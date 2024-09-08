@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" widh="200"/>
   <h1 align="center">🌺 Hola, Soy Flor 🌺 </h1>
-  <h3>Una apasionada d la tecnologia y Data Analyst Jr, me gusta mejorar todos los dias y desarrollar nuevas habilidades 🪽</h3>
+  <h3>Un placer tenerte por aquí soy Flor tengo 26 años y soy una apasionada de la tecnología como carrera en etapa inicial en análisis y visualización de datos, busco crear análisis concisos y dashbord creativos</h3>
   <h1 align="center">¡Encantada de conocerte!🖐️ </h1>
   <p align="center">
 
@@ -36,7 +36,7 @@
     <ul>🌸 IPN- ESIME CULHUACAN </ul>
     <ul>🌼 ING en Computación </ul>
     <ul>🌻 How to reach me flordgm13@gmail.com</ul>
-    <ul>🍒 Data Analyst JR.</ul>
+    <ul>🍒 Data Analyst Jr.</ul>
     <ul>🐈 Cat lover </ul>
     <ul>🐇 Dance in my free time</ul>
     <ul>🎵 Music producer </ul>
